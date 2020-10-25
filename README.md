@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hey 👋 I'm Hugh.
 
 I'm a senior at Rice studying math and computer science. 
 Next fall, I'll be joining Plaid full time as a software engineer 
